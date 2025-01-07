@@ -1,4 +1,7 @@
 # Taller11
+## Integrantes:
+Jhordy Camacas
+Daniel Idrovo
 
 * Para el taller se debe usar los conceptos de funciones y procedimientos
 
